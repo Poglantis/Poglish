@@ -13,7 +13,7 @@ In (Used in any context of the word In) -> τlγ
 Out (Used in any context of the word Out) -> τlo 
 I (I did it!) -> αlαβ
 Am ("I am in the house") -> ∁αlα
-House -> ⌂
+House/Home -> ⌂
 Animal -> Λ
 Is -> αxlo
 The -> αxlγ
@@ -54,3 +54,12 @@ Runs -> α⇂τloϵf
 Hot -> ȡlαϵf
 Drink -> ∁αlατlγ
 Coffee -> ȡlαϵf∁αlατlγ
+People -> α⇂α⇂αlαlαloβ⭉
+We -> ȅȅƿlατlo
+Declare -> ȅloβl϶
+This -> ʌ⫝☼τlo
+Land -> ⌢τlol϶
+Free -> ȅ⫝☼ƿloβ
+Any -> ȡ⌢☼loβτlγ
+Crime -> ȅlαβlαβ
+Bad -> ȡƿτlγ
