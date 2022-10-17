@@ -1,0 +1,21 @@
+Hey,Hello,Hi -> Greeting -> λ
+Singular pronoun (Subject) (He/She) -> α
+Singular pronoun (Object) (Him/Her) -> αl
+Singular pronoun (Object) (His/Hers) -> αx
+Singular pronoun (Reflexive) (Himself/Herself) -> αlα
+There -> α⇂
+Did (as in "I did it!") -> αxlα
+It (As in "He did it himself") -> τlα
+In (Used in any context of the word In) -> τlγ
+Out (Used in any context of the word Out) -> τlo 
+I (I did it!) -> αlαβ
+Am ("I am in the house") -> ∁αlα
+House -> ⌂
+Animal -> Λ
+Is -> αxlo
+The -> αxlγ
+An -> ∁αlαb
+Kill -> τϵf
+Was -> αxlo
+*ed (Killed, Filled) -> ∂
+Past tense (Is -> Was. etc) -> ⌢ʌ
