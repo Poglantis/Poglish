@@ -3,6 +3,9 @@ Singular pronoun (Subject) (He/She) -> α
 Singular pronoun (Object) (Him/Her) -> αl
 Singular pronoun (Object) (His/Hers) -> αx
 Singular pronoun (Reflexive) (Himself/Herself) -> αlα
+
+Referring to yourself (I did this myself) -> *βα∁
+
 There -> α⇂
 Did (as in "I did it!") -> αxlα
 It (As in "He did it himself") -> τlα
@@ -16,6 +19,7 @@ Is -> αxlo
 The -> αxlγ
 An -> ∁αlαb
 Kill -> τϵf
-Was -> αxlo
+Was -> αxl϶
 *ed (Killed, Filled) -> ∂
 Past tense (Is -> Was. etc) -> ⌢ʌ
+Will -> αxlαβ
