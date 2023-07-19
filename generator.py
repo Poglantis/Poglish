@@ -3,7 +3,7 @@ middles = ["lα","τlo","☼","αlα","loβ","ƿ"]
 ends = ["βlαβ","loβ","⭉","τlγ","τlo","l϶","ϵf"]
 import random
 
-words_to_be_genned = ["Bad"]
+words_to_be_genned = ["Pog"]
 def new_word():
     i = random.choice([0,0,0,0,1,1,1,2,2,2,3])
     if i == 0:
